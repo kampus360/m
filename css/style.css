@@ -1,0 +1,22 @@
+.navbar-nav .nav-item .nav-link:hover{
+    color: orange;
+
+}
+.navbar-nav .nav-item .nav-link{
+    font-weight: bolder;
+    padding-left: 50px;
+}
+.navbar-collapse{
+    margin-left: 200px;
+}
+.home-banner{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(..//images/Rectangle\ 1h.png);
+}
+.home-unit1{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(..//images/Rectangle\ 21.png);
+    height: 287px;
+}
