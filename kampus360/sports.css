@@ -1,0 +1,31 @@
+.navbar-nav .nav-item .nav-link:hover{
+    color: orange;
+
+}
+.navbar-nav .nav-item .nav-link{
+    font-weight: bolder;
+    padding-left: 50px;
+}
+.navbar-collapse{
+    margin-left: 200px;
+}
+.HIFL{
+    background-color: orange;
+}
+.main-cover{
+    display: flex;
+    width: 1520px;
+    justify-content: space-between;
+}
+.ads-section{
+    background-color: gray;
+    height: 700px;
+    width: 600px;
+}
+.hifl-npfl{
+    height: 700px;
+  
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+}
